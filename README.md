@@ -9,7 +9,7 @@ Analytical professional with an MBA and strong skills in Python, SQL, Power BI, 
 ---
 
 ## 🧠 Core Business Skills  
-`Stakeholder collaboration` `Data analysis and reporting`  `Process Optimization & Documentation` `Training and Mentoring` `Data Visualization and Presentation` 
+`Stakeholder collaboration` `Data analysis and reporting` `Process Optimization & Documentation` `Training and Mentoring` `Data Visualization and Presentation` 
 
 
 ---
