@@ -104,10 +104,10 @@ Analytical professional with an MBA and strong skills in Python, SQL, Power BI, 
 ---
 
 ## 📂 Featured Projects  
-- **📊 Sales Analytics Dashboard (Power BI)**  
-- **📈 Forecasting Model (Time Series Analysis)**  
-- **🔍 Customer Segmentation using Clustering**  
-- **📁 Automated Excel + SQL Reporting System**  
+- **📊 Machine Learning Classification model on Heart Disease Prediction**  
+- **📈 Machine Learning Regression Model on Ecommerce Customer Behavior**  
+- **🔍 Data Analytics project on Telecom customer churn analysis**  
+- **📁  Data Analytics project on Retail Sales analysis**  
 
 ---
 
